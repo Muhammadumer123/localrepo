@@ -1,0 +1,9 @@
+git branch //// to check branches
+
+git branch -M main /// to change branch name
+
+git checkout -b <branch name> /// to add a new branch
+
+git checkout <branch name> /// to navigate to another branch
+
+git branch -d <branch name> /// to delete branch
