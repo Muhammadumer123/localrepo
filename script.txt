@@ -1,3 +1,7 @@
+When we make project in local pc and have to add in githup repository
+
+steps:
+
 git init
 git remote add origin https://github.com/Muhammadumer123/localrepo.git
 git remote -v
